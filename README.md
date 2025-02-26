@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hira Mithani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2941fe76-bc7a-4d3a-9854-4754e591ce62">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/064d185e-5091-4bc5-92d1-43f4eaa3a5e4">
+
 
 
 - 🔭 I’m currently working on [Autoroad Website](https://preview.colorlib.com/#autoroad)
