@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hira Mithani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/064d185e-5091-4bc5-92d1-43f4eaa3a5e4">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
